@@ -1,0 +1,9 @@
+for(i=17;i<=21;i++){
+    console.log(i)
+}
+console.log("-------------")
+n=17
+while(n>10){
+    n--
+    console.log(n)
+}
